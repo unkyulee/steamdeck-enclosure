@@ -17,11 +17,23 @@ Whether you're writing, coding, traveling, or just want a more comfortable way t
 * Minimal assembly and no soldering required
 * Ideal for writing, note-taking, and lightweight productivity setups
 
-### What’s Included
+### What's Included
 
 * STL files for all printed parts
 * Assembly guide and fit notes
 * Optional adjustments for different printing tolerances
+
+
+### BOM
+
+* Steam Deck
+* K380 Logitech Keyboard
+* 4x M3 Hex Screws 60 mm Length 
+* 6x M3 Hex Screws 20 mm Length
+* 10x M3 Heat Inserts Length 3mm (OD 4.5mm)
+
+Place the heat inserts. Then screw them in.
+Place the Steam Deck inside. Use the display lock and bolts to lock in the unit.
 
 
 ### Support
