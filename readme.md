@@ -27,13 +27,21 @@ Whether you're writing, coding, traveling, or just want a more comfortable way t
 ### BOM
 
 * Steam Deck
-* K380 Logitech Keyboard
-* 4x M3 Hex Screws 60 mm Length 
-* 6x M3 Hex Screws 20 mm Length
-* 10x M3 Heat Inserts Length 3mm (OD 4.5mm)
+* Logitech K380 keyboard
+* 4x M3 hex screws, 60 mm length
+* 6x M3 hex screws, 20 mm length
+* 10x M3 heat inserts, 3 mm length (OD 4.5 mm)
+* Soft cloth material or rubber rings for cushioning
 
-Place the heat inserts. Then screw them in.
-Place the Steam Deck inside. Use the display lock and bolts to lock in the unit.
+
+### Assembly Instructions
+
+1. Install the M3 heat inserts into the printed parts and secure them in place.
+2. Add soft cloth pieces or rubber rings anywhere the Steam Deck will make contact with the enclosure. This helps prevent scratches and absorb minor impacts.
+3. Place the Steam Deck inside the enclosure, ensuring it sits comfortably against the cushioning.
+4. Use the display lock and bolts to secure the unit firmly in place.
+
+This setup gives your Steam Deck a more stable fit, offers basic shock absorption, and helps protect the device during handling.
 
 
 ### Support
