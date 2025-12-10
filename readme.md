@@ -47,7 +47,7 @@ This setup gives your Steam Deck a more stable fit, offers basic shock absorptio
 ### Press
 
 * [PC Guide - This 3D-printable Steam Deck enclosure comes with space for a keyboard, and it’s free to download](https://www.pcguide.com/news/this-3d-printable-steam-deck-enclosure-comes-with-space-for-a-keyboard-and-its-free-to-download/)
-
+* [Reddit Post](https://www.reddit.com/r/SteamDeck/comments/1phavq6/steam_deck_enclosure/)
 
 ### Support
 
