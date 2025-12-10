@@ -44,6 +44,11 @@ Whether you're writing, coding, traveling, or just want a more comfortable way t
 This setup gives your Steam Deck a more stable fit, offers basic shock absorption, and helps protect the device during handling.
 
 
+### Press
+
+* [PC Guide - This 3D-printable Steam Deck enclosure comes with space for a keyboard, and it’s free to download](https://www.pcguide.com/news/this-3d-printable-steam-deck-enclosure-comes-with-space-for-a-keyboard-and-its-free-to-download/)
+
+
 ### Support
 
 This Steam Deck enclosure project is fully open-source and created out of curiosity, tinkering, and a love for transforming everyday devices into something new. If you've enjoyed printing the enclosure, turning your Steam Deck into a portable laptop, or exploring the design, even a small gesture of support means a lot.
